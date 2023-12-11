@@ -1,0 +1,12 @@
+
+
+<div *ngIf= "isAdminLoggedIn">
+    <mat-toolbar color="primary" class="navbar">
+        <span class="navbar-brand">Admin Dashboard</span>
+        <span class="spacer"></span>
+        <button mat-button (click)= "logout()" routerLinkActive="active">Logout</button>
+    </mat-toolbar>
+
+</div>
+
+<router-outlet></router-outlet> 
