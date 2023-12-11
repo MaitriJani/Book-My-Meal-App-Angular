@@ -6,12 +6,12 @@ Book My Meal Application LogIn UI using angular and Spring Boot:-
 4. Run the spring boot application
 5. Enter the password
    (a.) For Employee Login:
-   **Email:** emp@test.com
+   ** Email:** emp@test.com
    ** Password:** pass
    
    (b.) For Admin Login:
    ** Email: ** admin@test.com
-   **Password:** adminpass
+   ** Password:** adminpass
    
 
 
